@@ -8,7 +8,7 @@ public class Calculo {
         System.out.print("Digite o número para calcular seu quadrado: ");
         Integer numero1 = scanner.nextInt();
 
-        Integer quadradoNumero1 = numero1 * numero1;
+        Integer quadradoNumero1 = numero1 * numero1; 
 
         System.out.println("Resultado do Quadrado: " + quadradoNumero1);
 
